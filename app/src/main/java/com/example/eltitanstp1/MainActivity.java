@@ -1,5 +1,4 @@
-package com.example.application1;
-
+package com.example.eltitanstp1;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
