@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item name="txt1" type="id" />
+    <item name="txt2" type="id" />
+    <item name="inputfirstname" type="id" />
+    <item name="profile_image" type="id" />
+    <item name="labelNom" type="id" />
+    <item name="inputlastname" type="id" />
+    <item name="labelprenom" type="id" />
+    <item name="button" type="id" />
+    <item name="inputclasse" type="id" />
+    <item name="labelclass" type="id" />
+    <item name="inputremarque" type="id" />
 </resources>
